@@ -5,7 +5,7 @@
 
 If you are viewing this, I am assuming you came here to learn more about our countdown clock project for Stuyvesant High School. Started in the summer of 2019, the STUA has been trying to create some sort of display for the second floor TriBeCa bridge entrance. This display will display subway information and if possible, school club advertisements and other useful information. 
 
-While the project has not been realized yet, we are hoping you could help us. This notebook contanis what we have gotten to so far. You are free to use the module for your own projects, or edit the core files of the module itself. If you code anything interesting you would like to bring to our attention, you can ping Irvin, Abheek, or I (Ravindra). 
+While the project has not been realized yet, we are hoping you could help us. This notebook contains what we have gotten to so far. You are free to use the module for your own projects, or edit the core files of the module itself. If you code anything interesting you would like to bring to our attention, you can ping Irvin, Abheek, or I (Ravindra). 
 
 Below is a little tutorial on how to use the module. Additionally, here are some hyperlinks to any part of this tutorial:
 
